@@ -55,14 +55,6 @@ Infrastructure  AWS | Terraform | Docker | Kubernetes | Vercel
 - **[pydantic/pydantic-core](https://github.com/pydantic/pydantic-core)** - Core validation logic in Rust
 - **[numpy/numpy](https://github.com/numpy/numpy)** - Scientific computing with Python
 
-## Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [Transcript_Analyzer](https://github.com/Luca-Blight/Transcript_Analyzer) | AI-powered document analysis |
-| [Data-Science-Projects](https://github.com/Luca-Blight/Data-Science-Projects) | ML research and experiments |
-| [Support-Ticketing-System](https://github.com/Luca-Blight/Support-Ticketing-System) | Full-stack support platform |
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-royals/)
